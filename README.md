@@ -1,6 +1,6 @@
 <!-- 🤖 AI Coding Vibe Header -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2wzZ2h6aWwzbHl2d2ttZmNvN3pkaHAxZ2dxMDhxMW8wNHdpOGV5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AbYxDs20DECQw/giphy.gif" width="350" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2wzZ2h6aWwzbHl2d2ttZmNvN3pkaHAxZ2dxMDhxMW8wNHdpOGV5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AbYxDs20DECQw/giphy.gif" width="400" />
 </p>
 
 <h1 align="center">Hi there! 👋</h1>
