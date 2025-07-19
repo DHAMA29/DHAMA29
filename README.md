@@ -26,7 +26,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Building-AI%20UI%20Prototypes-blueviolet?style=for-the-badge&logo=ai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Learning-Computer%20Vision-yellow?style=for-the-badge"/>
+
   <img src="https://img.shields.io/badge/Experimenting-Flutter%20with%20AI-blue?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
